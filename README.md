@@ -1,6 +1,5 @@
 # autonomous-rc-car
 
-[![Gitter](https://img.shields.io/gitter/room/nwjs/nw.js.svg?style=flat-square)](https://gitter.im/autonomous-rc-car/Lobby)
 
 This project aims to build an autonomous rc car using supervised learning of a neural network with a single hidden layer. We have not used any Machine Learning libraries since we wanted to implement the neural network from scratch to understand the concepts better. We have modified a remote controlled car to remove the dependency on the RF remote controller. A Raspberry Pi controls the DC motors via an Arduino Shield. 
 
